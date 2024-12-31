@@ -2,3 +2,4 @@ git init
 git clone
 create fb1
 create fb2
+merge master
